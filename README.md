@@ -1,4 +1,4 @@
-Seungwoo Jang
+**Seungwoo Jang**
  
 Master of Electrical and Computer Engineering
 
